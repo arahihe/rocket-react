@@ -1,0 +1,15 @@
+.card-about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    background-color: var(--secondary);
+    height: auto;
+    width: 300px;
+    border-radius: 20px;
+    margin: 40px auto;
+}
+
+img {
+    height: 250px;
+}
